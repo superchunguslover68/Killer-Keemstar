@@ -1,0 +1,17 @@
+/Users/league/Killer Keemstar/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/league/Killer Keemstar/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/league/Killer Keemstar/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/league/Killer Keemstar/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/league/Killer Keemstar/Temp/bin/Debug/UnityEngine.dll
+/Users/league/Killer Keemstar/Temp/bin/Debug/UnityEditor.dll
+/Users/league/Killer Keemstar/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/league/Killer Keemstar/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/league/Killer Keemstar/Temp/bin/Debug/Mono.Cecil.dll
+/Users/league/Killer Keemstar/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/league/Killer Keemstar/Temp/bin/Debug/Unity.DataContract.dll
+/Users/league/Killer Keemstar/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/league/Killer Keemstar/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/league/Killer Keemstar/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/league/Killer Keemstar/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/league/Killer Keemstar/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/league/Killer Keemstar/Temp/bin/Debug/Mono.Cecil.Mdb.dll

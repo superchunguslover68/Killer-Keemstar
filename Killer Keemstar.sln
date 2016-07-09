@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6C674A50-27E4-F027-C68A-70FF3F21487D}") = "Killer Keemstar", "Assembly-CSharp-firstpass.csproj", "{0BFC6FB0-0FD8-A2DD-0017-15E383218826}"
+EndProject
+Project("{6C674A50-27E4-F027-C68A-70FF3F21487D}") = "Killer Keemstar", "Assembly-CSharp.csproj", "{0DE31E8A-05FE-7346-B342-F887F717400F}"
+EndProject
+Project("{6C674A50-27E4-F027-C68A-70FF3F21487D}") = "Killer Keemstar", "Assembly-CSharp-Editor.csproj", "{284B0AAF-AA09-A6CA-E330-F2303576DB72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BFC6FB0-0FD8-A2DD-0017-15E383218826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFC6FB0-0FD8-A2DD-0017-15E383218826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFC6FB0-0FD8-A2DD-0017-15E383218826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFC6FB0-0FD8-A2DD-0017-15E383218826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE31E8A-05FE-7346-B342-F887F717400F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE31E8A-05FE-7346-B342-F887F717400F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE31E8A-05FE-7346-B342-F887F717400F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE31E8A-05FE-7346-B342-F887F717400F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284B0AAF-AA09-A6CA-E330-F2303576DB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284B0AAF-AA09-A6CA-E330-F2303576DB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284B0AAF-AA09-A6CA-E330-F2303576DB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284B0AAF-AA09-A6CA-E330-F2303576DB72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
